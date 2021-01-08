@@ -10,7 +10,7 @@ Note: This is all brand new stuff and will change _a lot_.
 
 ### Basics
 
-TINGL is intended to be a straightforward, linear scripting language. The preferred file extension for TINGL scripts is `.tingle`.
+TINGL is intended to be a straightforward, linear scripting language. The preferred file extension for TINGL scripts is `.tingl`.
 
 Comments are indicated with a semicolon `;` character, followed by one or more spaces. If a comment appears on the same line as a function, it must be placed at the end, with one or more spaces preceding the semicolon. If a comment appears on a line by itself, the line may begin with a semicolon.
 
